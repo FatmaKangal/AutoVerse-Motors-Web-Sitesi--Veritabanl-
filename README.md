@@ -45,8 +45,7 @@ config/db.php dosyasındaki veritabanı ayarlarını kendi kullanıcı adı ve �
 Tarayıcıda çalıştır:
 
 http://localhost/AutoVerse-Motors/
-📸 Ekran Görüntüleri
-(İstersen buraya örnek ekran görüntüleri de ekleyebilirim.)
+
 
 🧑‍💻 Geliştirici
 Fatma Kangal
